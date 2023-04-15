@@ -16,7 +16,7 @@
 </div>
 <jsp:include page="mapping_page.jsp"/>
 <div class="container-fluid">
-    <h1>Ваша заявка сохранена,ожидайте звонка</h1>
+    <h1>Ваша заявка сохранена! Ждите!</h1>
 </div>
 
 
